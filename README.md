@@ -3,6 +3,7 @@ My excel file was too large to upload, even in a compressed form. Here is my sec
 -side note, I got the correct results! After spending hours on stack overflow and rewatching the lecture, I found it was easier to restart my code from scratch rather than edit what I had previously attempted. The overall code looks a lot prettier and best yet, actually runs.
 
 Sub tickerloop()
+
 'Loop through all worksheets
 For Each ws In Worksheets
 
