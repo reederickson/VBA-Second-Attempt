@@ -1,6 +1,7 @@
 # VBA-Second-Attempt
 My excel file was too large to upload, even in a compressed form. Here is my second attempt at the code:
 -side note, I got the correct results! After spending hours on stack overflow and rewatching the lecture, I found it was easier to restart my code from scratch rather than edit what I had previously attempted. The overall code looks a lot prettier and best yet, actually runs.
+That being said, for some reason the code came out all funky when i copy and pasted it here; i have attatched a screenshot with the correct formatting (indentations etc)
 
 Sub tickerloop()
 
